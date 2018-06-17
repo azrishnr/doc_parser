@@ -1,0 +1,60 @@
+{
+    "recipes": [
+        [
+            {
+                "title": "Nathan’s Favorite Pasta Salad"
+            },
+            {
+                "Ingredients": [
+                    {
+                        "quantity": " 1",
+                        "unit": "box",
+                        "description": " corkscrew pasta (multicolored)"
+                    },
+                    {
+                        "quantity": " 1",
+                        "unit": "bottle",
+                        "description": " dressing"
+                    },
+                    {
+                        "quantity": " 1/2",
+                        "unit": "can",
+                        "description": " black olives, cut into pieces"
+                    },
+                    {
+                        "quantity": " 1",
+                        "unit": "cup",
+                        "description": " grape tomatoes, cut into halves"
+                    },
+                    {
+                        "quantity": " 1/2",
+                        "unit": "cup",
+                        "description": " red onion, chopped fine"
+                    },
+                    {
+                        "quantity": " 1/2",
+                        "unit": "pound",
+                        "description": " mozzarella cheese, cut into cubes"
+                    },
+                    {
+                        "quantity": " 1/4",
+                        "unit": "pound",
+                        "description": " genoa salami, cut into cubes"
+                    },
+                    {
+                        "quantity": " 1/4",
+                        "unit": "pound",
+                        "description": " pepperoni, cut into cubes"
+                    }
+                ]
+            },
+            {
+                "Preparation": [
+                    "Cook pasta until done. Drain.  Put drained pasta into a large bowl.  Pour the entire bottle of dressing over the pasta, then stir.  Add the rest of the ingredients. Stir well.  Add salt and pepper to taste.  Refrigerate, make sure to stir before serving. It works as a side or main dish.  Super easy!",
+                    "This salad can be modified anyway you wish.  Substitute cheddar cheese for mozzarella, use different meats or vegetables.  At the deli I ask them to cut my meat in one big quarter pound chunk.",
+                    "This pasta salad ended up in large plastic storage containers due to an oversized watermelon taking up space in my frig!"
+                ]
+            }
+        ]
+    ]
+}
