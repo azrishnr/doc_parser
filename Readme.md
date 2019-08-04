@@ -1,16 +1,9 @@
-###################################################
-      
-      Docx/txt Parser
-      Author: Ahilcar Srikrishnar
-      profile: https://www.upwork.com/o/profiles/users/_~0166c77db176b82ac6/
+# Doc Parser
+## Prerequisite:
 
-###################################################
+Install Python 3, use this [link](https://www.python.org/downloads/) if not installed.
 
-PREREQUISITE:
-
-* Python 3
-
-INSTRUCTIONS:
+## Instruction:
 
 1. Open command prompt
 2. Go to directory containing source code
